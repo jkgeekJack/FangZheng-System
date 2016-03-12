@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\coding\jwc_easy1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="F:\coding\jwc_easy1\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-4af0928c9b3f58671185a0860de7371857a0d340.jar" />
+    </item>
+    <item
+        jar="F:\Android SDK\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="F:\coding\jwc_easy1\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-613e2065f992ecace30ffd73bb5aa1371d3928bf.jar" />
+    </item>
+    <item
+        jar="F:\coding\jwc_easy1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="F:\coding\jwc_easy1\app\build\intermediates\pre-dexed\debug\classes-40f2c0ecae02d7e48bf7702c8b879f1d2277983b.jar" />
+    </item>
+    <item
+        jar="F:\coding\jwc_easy1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="F:\coding\jwc_easy1\app\build\intermediates\pre-dexed\debug\classes-ccea8eaea5523507be09a9a666ad7117e0b1679b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.apache.httpcomponents\httpcore\4.4.1\f5aa318bda4c6c8d688c9d00b90681dcd82ce636\httpcore-4.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f5aa318bda4c6c8d688c9d00b90681dcd82ce636">
+        <dex dex="F:\coding\jwc_easy1\app\build\intermediates\pre-dexed\debug\httpcore-4.4.1-0953b278bdaea6b87b1643b4163783f0b8bc6c39.jar" />
+    </item>
+
+</items>
